@@ -11,7 +11,7 @@ export default function RegisterationSuccess() {
         Your registration application for the program has been received. You
         will receive the same shortly on the email that you provided on the
         application. (PLEASE NOTE: If you do not receive an email from us
-        shortly, kindly check your spam or junk folders of your email)
+        shortly, kindly check your spam or junk folders of your email).
       </span>
       <span>
         Admissions Department Business Hours: Monday to Friday (10:00 AM to 5:00
